@@ -60,9 +60,9 @@ aum = {
 
 <div align="center">
 
-![Aum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aumaswar&show_icons=true&theme=dark&hide_border=true&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumaswar&layout=compact&theme=dark&hide_border=true&title_color=e74c3c&text_color=ffffff&bg_color=0d1117&cache_seconds=1800)
+[![Aum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aumaswar&show_icons=true&theme=dark&hide_border=true&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117)](https://github.com/Aumaswar)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumaswar&layout=compact&theme=dark&hide_border=true&title_color=e74c3c&text_color=ffffff&bg_color=0d1117)](https://github.com/Aumaswar)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aumaswar&theme=dark&hide_border=true&ring=e74c3c&fire=e74c3c&currStreakLabel=e74c3c&background=0d1117)
 
