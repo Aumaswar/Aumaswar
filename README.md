@@ -30,6 +30,7 @@ aum = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -59,8 +60,9 @@ aum = {
 
 <div align="center">
 
-![Aum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aumaswar&show_icons=true&theme=dark&hide_border=true&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumaswar&layout=compact&theme=dark&hide_border=true&title_color=e74c3c&text_color=ffffff&bg_color=0d1117)
+![Aum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aumaswar&show_icons=true&theme=dark&hide_border=true&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d1117&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumaswar&layout=compact&theme=dark&hide_border=true&title_color=e74c3c&text_color=ffffff&bg_color=0d1117&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aumaswar&theme=dark&hide_border=true&ring=e74c3c&fire=e74c3c&currStreakLabel=e74c3c&background=0d1117)
 
